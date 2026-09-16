@@ -1,0 +1,8 @@
+{
+  "environment": "dev",
+  "staleAfterSeconds": 86400,
+  "sources": {
+    "git": { "path": "." },
+    "docs": { "path": "./docs" }
+  }
+}
