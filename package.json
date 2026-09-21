@@ -1,7 +1,7 @@
 {
   "name": "autonomous-trust-context",
   "version": "1.3.0-alpha.1",
-  "description": "Autonomous Trust — Composite Context as an MCP server: federates a git repository and a docs/runbooks directory into contract-conformant Context Manifests with per-claim freshness, confidence, trust tiers, and content digests.",
+  "description": "Autonomous Trust \u2014 Composite Context as an MCP server: federates a git repository and a docs/runbooks directory into contract-conformant Context Manifests with per-claim freshness, confidence, trust tiers, and content digests.",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
@@ -17,5 +17,7 @@
     "ajv": "^8.17.0",
     "ajv-formats": "^3.0.0",
     "autonomous-trust-contracts": "github:commerce-trust-labs/autonomous-trust-contracts"
-  }
+  },
+  "author": "Pranesh Soma <contact@commercetrustlabs.org> (https://commercetrustlabs.org)",
+  "homepage": "https://commercetrustlabs.org/reference-architecture.html"
 }

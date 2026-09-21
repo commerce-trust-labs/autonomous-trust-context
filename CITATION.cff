@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Autonomous Trust — Composite Context MCP Server"
+type: software
+authors:
+  - family-names: Soma
+    given-names: Pranesh
+    website: "https://commercetrustlabs.org"
+repository-code: "https://github.com/commerce-trust-labs/autonomous-trust-context"
+url: "https://commercetrustlabs.org/reference-architecture.html"
+license: Apache-2.0
+date-released: "2026-09-21"
+abstract: "Part of Autonomous Trust: an architecture governing when AI-generated intent is allowed to become enterprise state. Governed autonomy, earned by evidence."
